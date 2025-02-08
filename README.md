@@ -19,6 +19,23 @@ To install the package from npm, run:
 npm install nodejs-env-loader
 ```
 
+### Using Different Package Managers
+
+#### yarn (Fast, reliable, and secure dependency management)
+```bash
+yarn add nodejs-env-loader
+```
+
+#### pnpm (Efficient package manager with disk space optimization)
+```bash
+pnpm add nodejs-env-loader
+```
+
+#### bun (Modern JavaScript runtime with built-in package manager)
+```bash
+bun add nodejs-env-loader
+```
+
 ### Local Installation
 
 If you prefer to install it locally:
