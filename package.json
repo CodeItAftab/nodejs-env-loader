@@ -1,14 +1,23 @@
 {
-  "name": "nodejs-env",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
+  "name": "nodejs-env-loader",
+  "version": "1.0.1",
+  "description": "A lightweight Node.js package to securely load environment variables from a .env file while preventing important system variables from being overwritten.",
+  "keywords": [
+    "dotenv",
+    "environment variables",
+    "env-loader",
+    "nodejs",
+    "config management",
+    "secure env"
+  ],
+  "author": "Your Name <your-email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeItAftab/nodejs-env-loader.git"
   },
-  "author": "aftab alam",
-  "license": "ISC",
-  "devDependencies": {
-    "jest": "^29.7.0"
-  }
+  "bugs": {
+    "url": "https://github.com/CodeItAftab/nodejs-env-loader/issues"
+  },
+  "homepage": "https://github.com/CodeItAftab/nodejs-env-loader#readme"
 }
