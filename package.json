@@ -1,6 +1,6 @@
 {
   "name": "nodejs-env-loader",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "scripts": {
     "test": "jest"
   },
